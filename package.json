@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/itsmehemm/referranodeserv/issues"
   },
-  "homepage": "https://github.com/itsmehemm/referranodeserv#readme"
+  "homepage": "https://github.com/itsmehemm/referranodeserv#readme",
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.13",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
 }
